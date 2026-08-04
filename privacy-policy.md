@@ -1,11 +1,8 @@
 # Privacy Policy
 
 **Effective Date:** August 4, 2026
-
 Privacy Policy for Zeno
-
 Thank you for using Zeno, a Discord bot designed to provide moderation, automation, and server management features.
-
 This Privacy Policy explains what information is processed by Zeno, how it is used, and your rights regarding your data.
 
 ## 1. Information We Collect
@@ -26,8 +23,7 @@ Message Information
 
 When required by enabled features such as moderation, anti-spam, honeypot detection, sticky messages, or prefix commands, Zeno may temporarily process message content.
 Message content is not permanently stored unless explicitly required by a feature configured by the server administrator.
-Presence Information
-
+Presence Information-
 If Presence Intent is enabled, Zeno may temporarily access user presence information (such as online status) solely for features that require it.
 
 Presence data is never permanently stored.
