@@ -91,7 +91,7 @@ removal of the bot from their server at any time.
 ## 10. Children's Privacy
 Zeno is intended for use within Discord and does not knowingly collect personal information from children outside of information provided through Discord's platform.
 
-11. Changes to this Privacy Policy
+## 11. Changes to this Privacy Policy
 This Privacy Policy may be updated periodically.
 The latest version will always be published at the official Privacy Policy page.
 
