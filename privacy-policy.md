@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective Date: August 4, 2026
+**Effective Date:** August 4, 2026
 
 Privacy Policy for Zeno
 
