@@ -90,7 +90,7 @@ Depending on their role, users have the following rights regarding their data:
 - Deletion of personal data associated with their Discord User ID (such as warning records, temporary role assignments, or AFK data)
 - Information about what data, if any, is stored about them
 
-To exercise these rights, users may contact the developer at **muhammadtaufikbusiness@gmail.com**. Requests will be processed within a reasonable timeframe, and data will be deleted unless retention is required for legitimate operational or legal reasons.
+To exercise these rights, users may contact the developer at my discord username (auravhycks), and contact me directly or send me a email. Requests will be processed within a reasonable timeframe, and data will be deleted unless retention is required for legitimate operational or legal reasons.
 
 Note: Honeypot-detection message content is automatically deleted within 24 hours and does not require a manual deletion request.
 
